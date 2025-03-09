@@ -25,7 +25,7 @@ print(result)
 # from instructions import CHAT_INSTRUCTIONS
 
 # # Set token, endpoint, and model name (free model setup)
-# token = Kaat raha hu push ke liye . env me daal  de raha hu
+# token deleted due to commit issue
 # endpoint = "https://models.inference.ai.azure.com"
 # modelName = "gpt-4o"
 
