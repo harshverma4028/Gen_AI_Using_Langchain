@@ -18,8 +18,6 @@ print(result)
 
 
 
-
-
 # from ai import streamText
 # from ai_sdk.openai import createOpenAI
 # from instructions import CHAT_INSTRUCTIONS
